@@ -1,2 +1,2 @@
 # treinamento-react
-Explorando conceitos essenciais do React
+Explorando conceitos essenciais do react
